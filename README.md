@@ -1,8 +1,8 @@
 ## Desafio de separar Mão-de-obra e peças usando tabelas associativas (N:M)
 #OFICINA MECÂNICA
-#MECÂNICO
-#EQUIPE
-#CLIENTE
-#VEICULOS
-#CALCULO_TOTAL
-#ENTREGA
+#Mecânico
+#Equipe
+#Cliente
+#Veiculos
+#Calculo_Total
+#Entrega
